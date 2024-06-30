@@ -1,0 +1,25 @@
+[font]
+size = 16
+
+[font.normal]
+family = "UbuntuMonoNerdFont"
+
+[font.bold]
+family = "UbuntuMonoNerdFont"
+style = "Bold"
+
+[font.bold_italic]
+family = "UbuntuMonoNerdFont"
+style = "Bold Italic"
+
+[font.italic]
+family = "UbuntuMonoNerdFont"
+style = "Italic"
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "N"
+mods = "Control|Shift"
+
+[window]
+opacity = 0.85
