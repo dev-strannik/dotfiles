@@ -1,0 +1,5 @@
+[user]
+  name = dev-strannik
+  email = public_mail@tutanota.com
+[init]
+  defaultBranch = main
