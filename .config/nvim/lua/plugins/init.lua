@@ -18,13 +18,12 @@ return {
 
   {
     "williamboman/mason.nvim",
+    enabled = false,
     opts = {
       ensure_installed = {
         -- default
         "lua-language-server",
         "stylua",
-        "html-lsp",
-        "css-lsp",
         "prettier",
 
         -- toml
@@ -43,9 +42,6 @@ return {
         "texlab",
         -- markdown
         "marksman",
-
-        -- html
-        "htmlbeautifier",
       },
     },
   },
