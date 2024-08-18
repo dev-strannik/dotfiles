@@ -18,7 +18,7 @@ return {
 
   {
     "williamboman/mason.nvim",
-    -- enabled = false,
+    enabled = false,
     opts = {
       ensure_installed = {
         -- default
